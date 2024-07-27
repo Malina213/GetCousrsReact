@@ -13,7 +13,7 @@ const projects = [
     isNew : true ,
     month : 'апрель',
     price : '83.000',
-    urlBg : '/bg/bg1.png',
+    urlBg : './bg/bg1.png',
    
   },
   {
@@ -23,7 +23,7 @@ const projects = [
     isNew : false ,
     month : 'март',
     price : '110.000',
-    urlBg : '/bg/bg2.png',
+    urlBg : './bg/bg2.png',
   },
   {
     methood : 'На самолёте',
@@ -32,7 +32,7 @@ const projects = [
     isNew : true ,
     month : 'июнь',
     price : '220.000',
-    urlBg : '/bg/bg3.png',
+    urlBg : './bg/bg3.png',
    
   },
   {
@@ -42,7 +42,7 @@ const projects = [
     isNew : true ,
     month : 'сентябрь',
     price : '135.000',
-    urlBg : '/bg/bg4.png',
+    urlBg : './bg/bg4.png',
   },
 
 ];
